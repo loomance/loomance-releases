@@ -19,7 +19,8 @@ Loomance is a desktop app that animates photos, illustrations and drawings using
 | | |
 |---|---|
 | OS | Windows 10/11 (64-bit) or Linux (AppImage / .deb) |
-| GPU | NVIDIA, 12 GB VRAM recommended |
+| GPU | NVIDIA, 12 GB VRAM recommended (8 GB works at lower resolution) |
+| RAM | 32 GB recommended |
 | Disk | ~40 GB free for models |
 | Internet | Required to launch the app and for the first-time model download |
 
